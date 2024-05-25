@@ -13,7 +13,7 @@
 ### <img src = "/assets/my_stats.gif" width = 35px> My Stats
 
 <img align="right" height=400 src="/assets/code.gif">
-<img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=pillarcoin">
+<img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=pillarcoin&hide=other">
 
 [![wakatime](https://wakatime.com/badge/user/a37c1193-85c0-4c90-90ee-9a5093528534.svg)](https://wakatime.com/@a37c1193-85c0-4c90-90ee-9a5093528534)
 <!--START_SECTION:waka-->
