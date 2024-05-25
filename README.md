@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&duration=3500&pause=800&color=1E1F64&vCenter=true&random=false&width=435&height=35&lines=Hi%2C+I'm+LiangYi.;It's+a+pleasure+to+meet+you~;I'm+a+Full+Stack+Developer.;I+hope+you+have+a+wonderful+day!)](https://blog.edison21.tk)
 
-[![Github Badge](https://img.shields.io/badge/-liangyi9812-000000?style=flat&logo=github&logoColor=FFFFFF&link=https://github.com/liangyi9812/)](https://github.com/liangyi9812/)
-[![Outlook Badge](https://img.shields.io/badge/-liangyi@outlook.my-000000?style=flat&logo=microsoftoutlook&logoColor=FFFFFF&link=mailto:liangyi@outlook.my)](mailto:liangyi@outlook.my)
+<!-- [![Github Badge](https://img.shields.io/badge/-liangyi9812-000000?style=flat&logo=github&logoColor=FFFFFF&link=https://github.com/liangyi9812/)](https://github.com/liangyi9812/) -->
 [![Blog Badge](https://img.shields.io/badge/Life%20Blog-000000?style=flat&logo=robinhood&logoColor=FFFFFF)](https://blog.edison21.tk)
+[![Outlook Badge](https://img.shields.io/badge/-liangyi@outlook.my-000000?style=flat&logo=microsoftoutlook&logoColor=FFFFFF&link=mailto:liangyi@outlook.my)](mailto:liangyi@outlook.my)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliangyi9812&count_bg=%23000000&title_bg=%23000000&icon=codeforces.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 👨🏽‍💻 I’m currently working on something cool
