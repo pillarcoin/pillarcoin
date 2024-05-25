@@ -2,7 +2,7 @@
 
 ### 🌟 About me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&duration=3500&pause=800&color=1E1F64&vCenter=true&random=false&width=435&height=35&lines=Hi%2C+I'm+LiangYi.;It's+a+pleasure+to+meet+you~;I'm+a+Full+Stack+Developer.;I+hope+you+have+a+wonderful+day!)](https://blog.edison21.tk)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&duration=3500&pause=800&color=1E1F64&vCenter=true&random=false&width=435&height=35&lines=Hi%2C+I'm+LiangYi.;It's+a+pleasure+to+meet+you~;I'm+a+Full+Stack+Developer.;I+hope+you+have+a+wonderful+day!)](https://blog.edison21.tk)
 <!-- [![Github Badge](https://img.shields.io/badge/-liangyi9812-000000?style=flat&logo=github&logoColor=FFFFFF&link=https://github.com/liangyi9812/)](https://github.com/liangyi9812/) -->
 &nbsp;&nbsp;&nbsp;&nbsp;[![Blog Badge](https://img.shields.io/badge/Life%20Blog-000000?style=flat&logo=robinhood&logoColor=FFFFFF)](https://blog.edison21.tk)
 [![Outlook Badge](https://img.shields.io/badge/-liangyi@outlook.my-000000?style=flat&logo=microsoftoutlook&logoColor=FFFFFF&link=mailto:liangyi@outlook.my)](mailto:liangyi@outlook.my)
