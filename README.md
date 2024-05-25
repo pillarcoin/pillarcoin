@@ -15,6 +15,7 @@
 
 <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=pillarcoin">
 
+[![wakatime](https://wakatime.com/badge/user/a37c1193-85c0-4c90-90ee-9a5093528534.svg)](https://wakatime.com/@a37c1193-85c0-4c90-90ee-9a5093528534)
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-401.4%20thousand%20lines%20of%20code-blue)
 
