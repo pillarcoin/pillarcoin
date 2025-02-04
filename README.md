@@ -60,11 +60,10 @@ Sunday                   20 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         ██████████████░░░░░░░░░░░   57.73 % 
-Cursor                   49 mins             ███████████░░░░░░░░░░░░░░   42.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
