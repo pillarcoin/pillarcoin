@@ -69,11 +69,11 @@ No Activity Tracked This Week
 **I Mostly Code in Kotlin** 
 
 ```text
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Objective-C              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Objective-C              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
