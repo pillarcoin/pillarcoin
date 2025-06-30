@@ -25,8 +25,6 @@
 
 > 📦 7.4 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -60,10 +58,10 @@ Sunday                   20 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 23 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
