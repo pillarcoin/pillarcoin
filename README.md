@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 7.4 kB Used in GitHub's Storage 
+> 📦 7.5 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2025
  > 
@@ -60,10 +60,10 @@ Sunday                   20 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ IDEA            24 hrs 24 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            19 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
