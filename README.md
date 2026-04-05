@@ -21,14 +21,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      44 hrs 51 mins      ██████████████████░░░░░░░   70.49 % 
-IntelliJ IDEA            10 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Ghostty                  5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-VS Code                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Zen                      45 hrs 47 mins      ██████████████████░░░░░░░   72.43 % 
+IntelliJ IDEA            9 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Ghostty                  5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+VS Code                  1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 Antigravity              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Mac                      63 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      63 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
