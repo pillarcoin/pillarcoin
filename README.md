@@ -21,14 +21,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      14 hrs 37 mins      █████████████████████░░░░   85.49 % 
-Ghostty                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Spotify                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Antigravity              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Zen                      13 hrs 28 mins      ██████████████████████░░░   88.59 % 
+Ghostty                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Spotify                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Antigravity              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Mac                      17 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
