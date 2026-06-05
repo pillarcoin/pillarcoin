@@ -5,32 +5,6 @@
 - 💬 Ask me about anything, I am happy to help
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-🌆 Daytime                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-🌃 Evening                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-🌙 Night                  76 commits          ███████████████████░░░░░░   76.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-🔥 Editors: 
-Zen                      11 hrs 27 mins      █████████████████████░░░░   85.89 % 
-Ghostty                  1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-AdobePhotoshop2026       40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Trae                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Telegram                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-💻 Operating System: 
-Mac                      13 hrs 20 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
