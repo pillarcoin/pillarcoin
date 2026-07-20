@@ -21,14 +21,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Trae                     40 hrs 24 mins      ███████████░░░░░░░░░░░░░░   44.01 % 
-Zen                      32 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.45 % 
-Chrome                   9 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-VS Code                  7 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Zen                      34 hrs              █████████░░░░░░░░░░░░░░░░   36.92 % 
+Trae                     31 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.90 % 
+VS Code                  17 hrs 5 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Chrome                   7 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 Devin                    1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Mac                      91 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      92 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
