@@ -10,10 +10,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-🌆 Daytime                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-🌃 Evening                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-🌙 Night                  76 commits          ███████████████████░░░░░░   76.00 % 
+🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+🌆 Daytime                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+🌃 Evening                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+🌙 Night                  76 commits          ███████████████████░░░░░░   75.25 % 
 ```
 
 
@@ -23,50 +23,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      33 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   36.80 % 
-IntelliJ IDEA            32 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   34.83 % 
-VS Code                  24 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-Ghostty                  1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Chrome                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+IntelliJ IDEA            34 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   40.13 % 
+Zen                      32 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   38.49 % 
+VS Code                  16 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Ghostty                  1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Chrome                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      92 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      85 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 1 min (36.84%)
+⏱ AI Coding Time: 32 hrs 30 mins (38.01%)
 
-✍️ 2,686 lines written by AI, 15,232 lines written by hand (14.99% AI-written)
+✍️ 2,207 lines written by AI, 9,066 lines written by hand (19.58% AI-written)
 
-🔤 65,125,875 Input Tokens, 1,937,924 Output Tokens
+🔤 70,339,201 Input Tokens, 2,142,675 Output Tokens
 
-💵 $578.60 Estimated AI Cost This Week
+💵 $674.09 Estimated AI Cost This Week
 
-🧠 145 AI Sessions, 695 AI Prompts
+🧠 138 AI Sessions, 679 AI Prompts
 
-Glm                      2,436 lines         ███████████████████░░░░░░   76.75 % 
-Deepseek                 738 lines           ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Glm                      2,258 lines         █████████████████████░░░░   83.97 % 
+Deepseek                 431 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.99% of written lines came from AI
-📄 Detailed Prompter — average 882 characters per prompt
+🧑‍💻 Mostly Hands-On — 19.58% of written lines came from AI
+📄 Detailed Prompter — average 812 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 90.64% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 86.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   18 repos            ██████████░░░░░░░░░░░░░░░   39.13 % 
-TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Kotlin                   19 repos            ██████████░░░░░░░░░░░░░░░   40.43 % 
+TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 
