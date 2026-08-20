@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, I am happy to help
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%2059%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -23,40 +23,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      25 hrs 34 mins      ████████████░░░░░░░░░░░░░   47.86 % 
-IntelliJ IDEA            14 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-VS Code                  11 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Ghostty                  45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Spotify                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Zen                      23 hrs 49 mins      ██████████████░░░░░░░░░░░   54.33 % 
+IntelliJ IDEA            10 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+VS Code                  9 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Spotify                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Telegram                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      53 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 8 mins (26.47%)
+⏱ AI Coding Time: 11 hrs 15 mins (25.66%)
 
-✍️ 351 lines written by AI, 5,193 lines written by hand (6.33% AI-written)
+✍️ 268 lines written by AI, 4,668 lines written by hand (5.43% AI-written)
 
-🔤 22,123,460 Input Tokens, 1,385,630 Output Tokens
+🔤 19,417,305 Input Tokens, 1,128,488 Output Tokens
 
-💵 $472.70 Estimated AI Cost This Week
+💵 $415.95 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 342 AI Prompts
+🧠 49 AI Sessions, 252 AI Prompts
 
-Deepseek                 536 lines           ██████████████████████░░░   89.63 % 
-Glm                      62 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Deepseek                 398 lines           ██████████████████████░░░   86.52 % 
+Glm                      62 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.33% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
+🧑‍💻 Mostly Hands-On — 5.43% of written lines came from AI
+📝 Concise Prompter — average 191 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 95.08% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
