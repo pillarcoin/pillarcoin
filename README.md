@@ -23,28 +23,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      21 hrs 59 mins      █████████████████████░░░░   84.53 % 
-VS Code                  3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Spotify                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Zen                      20 hrs 32 mins      ██████████████████████░░░   87.35 % 
+VS Code                  2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Spotify                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 Notion                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      26 hrs              █████████████████████████   100.00 % 
+Mac                      23 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 48 mins (22.33%)
+⏱ AI Coding Time: 4 hrs 56 mins (21.03%)
 
-✍️ 593 lines written by AI, 34 lines written by hand (94.58% AI-written)
+✍️ 593 lines written by AI, 133 lines written by hand (81.68% AI-written)
 
-🔤 4,797,316 Input Tokens, 441,129 Output Tokens
+🔤 4,221,563 Input Tokens, 352,105 Output Tokens
 
-💵 $122.25 Estimated AI Cost This Week
+💵 $97.81 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 88 AI Prompts
+🧠 9 AI Sessions, 72 AI Prompts
 
 Deepseek                 601 lines           █████████████████████████   99.01 % 
 Glm                      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
@@ -52,10 +52,10 @@ GPT                      1 lines             ░░░░░░░░░░░�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.58% of written lines came from AI
-📄 Detailed Prompter — average 531 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 12.28% of changed lines were hand-edited
+🤖 AI-Driven — 81.68% of written lines came from AI
+📄 Detailed Prompter — average 640 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 42.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
