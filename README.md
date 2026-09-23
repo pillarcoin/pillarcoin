@@ -23,20 +23,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      20 hrs 32 mins      ██████████████████████░░░   87.35 % 
-VS Code                  2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Spotify                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Zen                      20 hrs 49 mins      ██████████████████████░░░   87.51 % 
+VS Code                  2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Spotify                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 Notion                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      23 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 56 mins (21.03%)
+⏱ AI Coding Time: 4 hrs 56 mins (20.77%)
 
 ✍️ 593 lines written by AI, 133 lines written by hand (81.68% AI-written)
 
