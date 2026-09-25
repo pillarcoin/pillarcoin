@@ -23,39 +23,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      17 hrs 40 mins      █████████████████████░░░░   85.83 % 
-VS Code                  2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Spotify                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Notion                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Zen                      8 hrs 29 mins       ██████████████████████░░░   89.89 % 
+VS Code                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Spotify                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+RemoteDesktopManager     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Telegram                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      20 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 29 mins (16.93%)
+⏱ AI Coding Time: 38 mins (6.77%)
 
-✍️ 593 lines written by AI, 133 lines written by hand (81.68% AI-written)
+✍️ 0 lines written by AI, 127 lines written by hand (0.0% AI-written)
 
-🔤 3,346,940 Input Tokens, 247,045 Output Tokens
+🔤 445,694 Input Tokens, 40,534 Output Tokens
 
-💵 $80.87 Estimated AI Cost This Week
+💵 $14.83 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 50 AI Prompts
+🧠 1 AI Sessions, 10 AI Prompts
 
-Deepseek                 601 lines           █████████████████████████   99.01 % 
-Glm                      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-GPT                      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.68% of written lines came from AI
-📝 Concise Prompter — average 499 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 42.63% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 51 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
