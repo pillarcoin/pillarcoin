@@ -23,22 +23,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      8 hrs 29 mins       ██████████████████████░░░   89.89 % 
-VS Code                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Spotify                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-RemoteDesktopManager     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Telegram                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Zen                      12 hrs 3 mins       ██████████████████████░░░   89.84 % 
+VS Code                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Spotify                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+RemoteDesktopManager     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Telegram                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      9 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (6.77%)
+⏱ AI Coding Time: 38 mins (4.77%)
 
-✍️ 0 lines written by AI, 127 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 126 lines written by hand (0.0% AI-written)
 
 🔤 445,694 Input Tokens, 40,534 Output Tokens
 
