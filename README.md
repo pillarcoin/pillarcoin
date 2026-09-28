@@ -23,37 +23,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      12 hrs 3 mins       ██████████████████████░░░   89.84 % 
-VS Code                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Spotify                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-RemoteDesktopManager     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Telegram                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Zen                      11 hrs 6 mins       ████████████████████████░   94.29 % 
+Spotify                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Telegram                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      13 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (4.77%)
-
-✍️ 0 lines written by AI, 126 lines written by hand (0.0% AI-written)
-
-🔤 445,694 Input Tokens, 40,534 Output Tokens
-
-💵 $14.83 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 10 AI Prompts
-
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 51 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
