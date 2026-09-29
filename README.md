@@ -23,20 +23,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      11 hrs 6 mins       ████████████████████████░   94.29 % 
-Spotify                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Telegram                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Zen                      18 hrs 51 mins      ████████████████████████░   94.16 % 
+Spotify                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Telegram                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      11 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (0.16%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 8,618 Input Tokens, 10 Output Tokens
+
+💵 $2.24 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 28 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
