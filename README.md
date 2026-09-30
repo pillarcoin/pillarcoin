@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, I am happy to help
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%2042%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -23,20 +23,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      18 hrs 51 mins      ████████████████████████░   94.16 % 
-Spotify                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Telegram                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Zen                      23 hrs 40 mins      ████████████████████████░   94.59 % 
+Spotify                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Notion                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Telegram                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      20 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      25 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (0.16%)
+⏱ AI Coding Time: 1 min (0.13%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
