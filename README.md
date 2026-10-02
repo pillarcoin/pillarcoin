@@ -5,15 +5,15 @@
 - 💬 Ask me about anything, I am happy to help
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-298%20hrs%2022%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-🌆 Daytime                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-🌃 Evening                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-🌙 Night                  76 commits          ███████████████████░░░░░░   75.25 % 
+🌞 Morning                30 commits          ██████████████░░░░░░░░░░░   57.69 % 
+🌆 Daytime                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+🌃 Evening                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌙 Night                  16 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
 ```
 
 
@@ -23,28 +23,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      26 hrs 45 mins      ██████████████████████░░░   87.37 % 
-Spotify                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-VS Code                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Telegram                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Notion                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Zen                      29 hrs 14 mins      █████████████████████░░░░   85.08 % 
+Spotify                  2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+VS Code                  2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Postman                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Telegram                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Mac                      30 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 41 mins (15.33%)
+⏱ AI Coding Time: 6 hrs 49 mins (19.82%)
 
-✍️ 0 lines written by AI, 13 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 20 lines written by hand (0.0% AI-written)
 
-🔤 3,653,891 Input Tokens, 148,951 Output Tokens
+🔤 4,094,900 Input Tokens, 205,480 Output Tokens
 
-💵 $76.52 Estimated AI Cost This Week
+💵 $92.15 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 70 AI Prompts
+🧠 14 AI Sessions, 101 AI Prompts
 
 Glm                      44 lines            █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -53,19 +53,19 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 26 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 99.03% of changed lines were hand-edited
+📝 Concise Prompter — average 78 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 99.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   19 repos            ██████████░░░░░░░░░░░░░░░   40.43 % 
-TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Kotlin                   17 repos            ██████████░░░░░░░░░░░░░░░   39.53 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Objective-C              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
