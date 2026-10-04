@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, I am happy to help
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%2043%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -23,20 +23,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      29 hrs 14 mins      █████████████████████░░░░   85.08 % 
-Spotify                  2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-VS Code                  2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Postman                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Zen                      29 hrs 23 mins      █████████████████████░░░░   84.98 % 
+Spotify                  2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+VS Code                  2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Postman                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Telegram                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Mac                      34 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 49 mins (19.82%)
+⏱ AI Coding Time: 7 hrs 3 mins (20.38%)
 
 ✍️ 0 lines written by AI, 20 lines written by hand (0.0% AI-written)
 
