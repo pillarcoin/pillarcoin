@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, I am happy to help
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-309%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-311%20hrs%2012%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -23,40 +23,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      22 hrs 19 mins      ███████████████████░░░░░░   75.48 % 
-VS Code                  3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Opencode Cli             2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Postman                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Spotify                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Zen                      25 hrs 24 mins      ██████████████████████░░░   86.86 % 
+Opencode Cli             1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+VS Code                  1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Spotify                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Postman                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Mac                      29 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 28 mins (35.44%)
+⏱ AI Coding Time: 7 hrs 12 mins (24.66%)
 
-✍️ 85 lines written by AI, 192,228 lines written by hand (0.04% AI-written)
+✍️ 43 lines written by AI, 192,217 lines written by hand (0.02% AI-written)
 
-🔤 4,284,983 Input Tokens, 372,284 Output Tokens
+🔤 3,594,546 Input Tokens, 298,814 Output Tokens
 
-💵 $16.10 Estimated AI Cost This Week
+💵 $13.04 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 152 AI Prompts
+🧠 45 AI Sessions, 121 AI Prompts
 
-Qwen                     88 lines            █████████████████████████   100.00 % 
+Qwen                     43 lines            █████████████████████████   100.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 U                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.04% of written lines came from AI
-📄 Detailed Prompter — average 503 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.95% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.02% of written lines came from AI
+📄 Detailed Prompter — average 550 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 99.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
