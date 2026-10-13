@@ -23,28 +23,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      20 hrs 15 mins      ██████████████████████░░░   88.96 % 
-VS Code                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Opencode Cli             26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Postman                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Spotify                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Zen                      19 hrs 8 mins       ██████████████████████░░░   89.85 % 
+VS Code                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Postman                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Spotify                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Mac                      22 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (23.19%)
+⏱ AI Coding Time: 4 hrs 31 mins (21.23%)
 
 ✍️ 0 lines written by AI, 192,218 lines written by hand (0.0% AI-written)
 
-🔤 966,766 Input Tokens, 180,548 Output Tokens
+🔤 741,019 Input Tokens, 158,975 Output Tokens
 
-💵 $11.82 Estimated AI Cost This Week
+💵 $11.56 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 95 AI Prompts
+🧠 35 AI Sessions, 86 AI Prompts
 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 U                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -52,8 +52,8 @@ Qwen                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 671 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 734 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
