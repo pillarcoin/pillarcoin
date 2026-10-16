@@ -23,28 +23,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      16 hrs 54 mins      ██████████████████████░░░   88.69 % 
-VS Code                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Spotify                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Postman                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Zen                      15 hrs 47 mins      ██████████████████████░░░   87.82 % 
+VS Code                  1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Spotify                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Postman                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Mac                      19 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 2 mins (15.98%)
+⏱ AI Coding Time: 3 hrs 1 min (16.83%)
 
 ✍️ 0 lines written by AI, 192,218 lines written by hand (0.0% AI-written)
 
-🔤 619,810 Input Tokens, 114,640 Output Tokens
+🔤 614,910 Input Tokens, 114,297 Output Tokens
 
-💵 $9.96 Estimated AI Cost This Week
+💵 $9.94 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 79 AI Prompts
+🧠 28 AI Sessions, 77 AI Prompts
 
 U                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -52,7 +52,7 @@ Qwen                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 792 characters per prompt
+📄 Detailed Prompter — average 813 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
