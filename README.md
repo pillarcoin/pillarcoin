@@ -23,13 +23,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Zen                      11 hrs 7 mins       ████████████████████████░   97.13 % 
-Telegram                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Spotify                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Zen                      9 hrs 1 min         ████████████████████████░   96.56 % 
+Telegram                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Spotify                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      11 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
